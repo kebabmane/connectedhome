@@ -1,0 +1,39 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Hugo Casper Two"
+  subtitle    = "Port of Casper 2.x for Hugo"
+
+  cover       = "img/blog-cover.jpg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = "UA-3086522-15"
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "kebabman"
+  githubName = "kebabmane"
+
+  author = "RJE"
+  authorAvatar = "img/bio-photo.jpg"
+  authorLocation = "Melbourne Australia"
+  authorDescription = "I should probably just leave stuff alone..."
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+

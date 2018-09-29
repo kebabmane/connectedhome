@@ -3,11 +3,12 @@ theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
+summaryLength   = 50
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Hugo Casper Two"
-  subtitle    = "Port of Casper 2.x for Hugo"
+  title       = "The Connected Home"
+  subtitle    = "I should probably stop changing things"
 
   cover       = "img/blog-cover.jpg"
   description = "Here is a description of your site."
@@ -19,10 +20,10 @@ paginate        = 6
   twitterName = "kebabman"
   githubName = "kebabmane"
 
-  author = "RJE"
+  author = "Rhys"
   authorAvatar = "img/bio-photo.jpg"
   authorLocation = "Melbourne Australia"
-  authorDescription = "I should probably just leave stuff alone..."
+  authorDescription = "Lazy Gen-Y type, first computer experience was pressing the turbo button a 386 and wondering why nothing happened."
 
   pageNotFoundTitle = "404 - Page not found"
 

@@ -3,7 +3,7 @@ AWS := aws
 HUGO := hugo
 PUBLIC_FOLDER := public/
 S3_BUCKET = s3://connectedhome.guru/
-CLOUDFRONT_ID := ABCDE12345678
+CLOUDFRONT_ID := E1FZ6OGWEN07AH
 DOMAIN = onnectedhome.guru
 SITEMAP_URL = https://onnectedhome.guru/sitemap.xml
 

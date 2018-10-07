@@ -5,6 +5,8 @@ disqusShortname = ""
 paginate        = 6
 summaryLength   = 50
 #SectionPagesMenu = "main"
+enableRobotsTXT = true
+canonifyURLs = true
 
 [params]
   title       = "The Connected Home"

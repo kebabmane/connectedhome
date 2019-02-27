@@ -11,17 +11,19 @@ image: "/img/google-home-hub-vs-ipad/image1.jpg"
 description: Wow, this looks really good
 ---
 
-Wow, this looks really good
+So, I have been living in two smart home ecosystems for a while now - Apple's and Google, with each having pros and cons.
 
-So, I have been living in two smart home ecosystems for a while now - Apple's HomeKit and Google, with each having pros and cons.
+One thing I was kinda annoyed about with the Apple approach was my need for a shared device - for guests and those times your phone isn't close by - how can I give guest's access to my smart devices and routines...
 
-One thing I was kinda annoyed about with the Apple approach was my need for a shared device - for guests and those times your phone isn't close by - how can I give you a glance into the smart home. Something I found on reddit was my original plan....
+My origional plan was to do something like this image
 
 ![Looks Okay?](/img/google-home-hub-vs-ipad/image5.jpg)
 
-Now technically this is fine, looks kinda okay and would do the job but would see me needing to purchase a new (ish) iPad and a stand it's going to set me back around $470 AUD - and I probably want to end up with one or two around the house so this comes in closer to $1000 once I add a stand or holder.
+Now technically this is fine, looks kinda okay and would do the job but would see me needing to purchase a new (ish) iPad and a stand it's going to set me back around $470 AUD - and I wanted to end up with one or two around the house so this comes in closer to $1000 once I add a stand or holder.
 
-My main problem with the iPad(s) is that I would most probably need to create a new apple ID, invite it to my family apple account and then add them to HomeKit, along with handing out a shared pin for everyone OR not locking the screen which doesn't quite feel right OR just give everyone my pin to that home pad.
+One of my main concerns with the iPad(s) is that I would most probably need to create a new apple ID, invite it to my family apple account and then add them to HomeKit, along with handing out a shared pin for everyone OR not locking the screen which doesn't quite feel right OR just give everyone my pin to that home pad.
+
+## Hi Google Home Hub
 
 ![Will you fix my problems?](/img/google-home-hub-vs-ipad/image2.jpg)
 

@@ -5,7 +5,7 @@ PUBLIC_FOLDER := public/
 S3_BUCKET = s3://connectedhome.guru/
 CLOUDFRONT_ID := E1FZ6OGWEN07AH
 DOMAIN = onnectedhome.guru
-SITEMAP_URL = https://onnectedhome.guru/sitemap.xml
+SITEMAP_URL = https://connectedhome.guru/sitemap.xml
 
 DEPLOY_LOG := deploy.log
 

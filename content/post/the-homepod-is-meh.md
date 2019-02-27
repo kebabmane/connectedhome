@@ -1,7 +1,12 @@
 ---
+keywords:
+- apple
+- ios
+- homepod
+- apple tv
 title: "The HomePod is meh"
-date: 2018-09-29
-draft: true
+date: 2018-10-20
+draft: false
 image: "/img/the-homepod-is-meh/image1.jpg"
 description: It cost alot and does very little
 ---
@@ -24,7 +29,7 @@ Yeah so I got a HomePod - I needed a sound bar for the awful Kogan TV I purchase
 - Same goes for reminders - we have a shared shopping list and of course once I leave the safety of Wifi no one can add anything to a shopping (or other list) 
 - No voice match means that it’s tied to a single iOS/iCloud Account
 - Siri is okay but is missing huge chunks of functionality when compared to Google Assistant (the other Voice AI in my life)
-- The fabric is lovely but is a huge magnet for just stuff to stick to it (I have a toddler so she makes sure 
+- The fabric is lovely but is a huge magnet for just stuff to stick to it (I have a toddler so she makes sures to touch it after dinner)
 - When you have configured the Apple TV to use the HomePod for sound, whenever you use the HomePod (like to play some music) it will fire up your Apple TV, with HDMI-CEC it means by TV is always turning on....
 - For some reason when using the Apple TV and HomePod together the max volume is limited below what it would be standalone
 - No 3.5m or other audio in exists so it can only be used with the Apple TV - my Xbox and Nintendo switch don’t sound great

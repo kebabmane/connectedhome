@@ -16,4 +16,6 @@ Why is it so hard to choose?
 Things I like about the iPhone (in order);
 
 * The Apple Watch
-* 
+* iMessage
+* Privacy 
+* `It Just Works`

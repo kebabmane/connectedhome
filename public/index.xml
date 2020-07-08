@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bridging the HomeKit Divide</title>
+      <link>/bridging-the-homekit-divide/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/bridging-the-homekit-divide/</guid>
+      <description>So I have been a big believer in the HomeKit ecosystem - I have generally preferred the app (although that might be changing) and found it much more responsive then the google assistant for home automation.
+One big problem with the HomeKit ecosystem is general lack of devices - not just in Australia but globally, up until recently a physical chip was required in each HomeKit comparable device which increased development and hardware costs - this forced a lot of manufactures to just ignore HomeKit and ship google assistant along with Alexa functionality (API only integration).</description>
+    </item>
+    
+    <item>
+      <title>The HomePod is meh</title>
+      <link>/the-homepod-is-meh/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/the-homepod-is-meh/</guid>
+      <description>It cost alot and does very little
+Yeah so I got a HomePod - I needed a sound bar for the awful Kogan TV I purchased (two main issues - shitty/slow software that you cant disable and audio that sounds like people are permenantly underwater) - the sound issues caused my SO crazy and demanded I fixed it somehow, so I trundled down to the local JB Hifi - found the HomePods, dusted one off (seriously, I asked the team behind the counter and they had sold zero so the unit I grabbed had been sitting on a shelf since launch date just gathering dust) and paid my $500 AUD.</description>
+    </item>
+    
+    <item>
+      <title>Quick thoughts on the Google Home Hub</title>
+      <link>/quick-thoughts-on-the-google-home-hub/</link>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/quick-thoughts-on-the-google-home-hub/</guid>
+      <description>So, I have been living in two smart home ecosystems for a while now - Apple&amp;rsquo;s and Google, with each having pros and cons.
+One thing I was kinda annoyed about with the Apple approach was my need for a shared device - for guests and those times your phone isn&amp;rsquo;t close by - how can I give guest&amp;rsquo;s access to my smart devices and routines&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Do I want the Pixel 3 XL or iPhone Xs</title>
+      <link>/do-i-want-the-pixel-3-xl-or-iphone-xs/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/do-i-want-the-pixel-3-xl-or-iphone-xs/</guid>
+      <description>Why is it so hard to choose?
+Things I like about the iPhone (in order);
+ The Apple Watch iMessage Privacy It Just Works  </description>
+    </item>
+    
+    <item>
+      <title>Howdy</title>
+      <link>/howdy/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/howdy/</guid>
+      <description>Hi - I’m Rhys and I’m slightly obsessed with making everything in my house have an IP address even when it shouldn’t.
+I have always had way to much interest in consumer electronics and from an early age loved tinkering with stuff, this has translated into my adult life with an obsession with IoT devices and more importantly trying to build the perfect smart home.</description>
+    </item>
+    
+    <item>
+      <title>Google Chromecast vs Apple TV</title>
+      <link>/google-chromecast-vs-apple-tv/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/google-chromecast-vs-apple-tv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Home Ecosystem - my take</title>
+      <link>/google-home-ecosystem-my-take/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/google-home-ecosystem-my-take/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Home Mini Review</title>
+      <link>/google-home-mini-review/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/google-home-mini-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LIF 1st Gen Review</title>
+      <link>/lif-1st-gen-review/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/lif-1st-gen-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My HomeKit Automations 2018 Edition</title>
+      <link>/my-homekit-automations-2018-edition/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/my-homekit-automations-2018-edition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philips Hue Aphelion Downlight Review</title>
+      <link>/philips-hue-aphelion-downlight-review/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/philips-hue-aphelion-downlight-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pi Hole - Keep your browsing private</title>
+      <link>/pi-hole-keep-your-browsing-private/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/pi-hole-keep-your-browsing-private/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What keeps me in the Apple Ecosystem - 2018&#34;</title>
+      <link>/what-keeps-me-in-the-apple-ecosystem-2018/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/what-keeps-me-in-the-apple-ecosystem-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home Assistant fills some gaps</title>
+      <link>/home-assistant-fills-some-gaps/</link>
+      <pubDate>Fri, 28 Sep 2018 14:00:00 +0000</pubDate>
+      
+      <guid>/home-assistant-fills-some-gaps/</guid>
+      <description>Hello and welcome to Home Assistant that kinda works&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Android Pay and the Google Pixel — broken for me</title>
+      <link>/android-pay-and-the-google-pixel-broken-for-me/</link>
+      <pubDate>Tue, 03 Jan 2017 09:22:53 +1000</pubDate>
+      
+      <guid>/android-pay-and-the-google-pixel-broken-for-me/</guid>
+      <description>“Hang on a minute, I purchased the latest flagship device from you and this is the support i’m getting?”
+I recently plunged head first into the Google Ecosystem after years with Apple Devices, I picked up a Pixel the week after they hit Australian stores.
+Everything went well for the first month or so, I had everything configured just the way I want to, I even moved banks so I could make use of Android Pay which quickly had become my default way of paying when suddenly….</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Tue, 14 Apr 2015 22:17:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
+    </item>
+    
+  </channel>
+</rss>

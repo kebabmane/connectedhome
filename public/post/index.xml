@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>/post/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="/post/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bridging the HomeKit Divide</title>
-      <link>/post/bridging-the-homekit-divide/</link>
+      <link>/bridging-the-homekit-divide/</link>
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/bridging-the-homekit-divide/</guid>
+      <guid>/bridging-the-homekit-divide/</guid>
       <description>So I have been a big believer in the HomeKit ecosystem - I have generally preferred the app (although that might be changing) and found it much more responsive then the google assistant for home automation.
 One big problem with the HomeKit ecosystem is general lack of devices - not just in Australia but globally, up until recently a physical chip was required in each HomeKit comparable device which increased development and hardware costs - this forced a lot of manufactures to just ignore HomeKit and ship google assistant along with Alexa functionality (API only integration).</description>
     </item>
     
     <item>
       <title>The HomePod is meh</title>
-      <link>/post/the-homepod-is-meh/</link>
+      <link>/the-homepod-is-meh/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/the-homepod-is-meh/</guid>
+      <guid>/the-homepod-is-meh/</guid>
       <description>It cost alot and does very little
 Yeah so I got a HomePod - I needed a sound bar for the awful Kogan TV I purchased (two main issues - shitty/slow software that you cant disable and audio that sounds like people are permenantly underwater) - the sound issues caused my SO crazy and demanded I fixed it somehow, so I trundled down to the local JB Hifi - found the HomePods, dusted one off (seriously, I asked the team behind the counter and they had sold zero so the unit I grabbed had been sitting on a shelf since launch date just gathering dust) and paid my $500 AUD.</description>
     </item>
     
     <item>
       <title>Quick thoughts on the Google Home Hub</title>
-      <link>/post/quick-thoughts-on-the-google-home-hub/</link>
+      <link>/quick-thoughts-on-the-google-home-hub/</link>
       <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/quick-thoughts-on-the-google-home-hub/</guid>
+      <guid>/quick-thoughts-on-the-google-home-hub/</guid>
       <description>So, I have been living in two smart home ecosystems for a while now - Apple&amp;rsquo;s and Google, with each having pros and cons.
 One thing I was kinda annoyed about with the Apple approach was my need for a shared device - for guests and those times your phone isn&amp;rsquo;t close by - how can I give guest&amp;rsquo;s access to my smart devices and routines&amp;hellip;</description>
     </item>
     
     <item>
       <title>Howdy</title>
-      <link>/post/howdy/</link>
+      <link>/howdy/</link>
       <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/howdy/</guid>
+      <guid>/howdy/</guid>
       <description>Hi - I’m Rhys and I’m slightly obsessed with making everything in my house have an IP address even when it shouldn’t.
 I have always had way to much interest in consumer electronics and from an early age loved tinkering with stuff, this has translated into my adult life with an obsession with IoT devices and more importantly trying to build the perfect smart home.</description>
     </item>
     
     <item>
       <title>Home Assistant fills some gaps</title>
-      <link>/post/home-assistant-fills-some-gaps/</link>
+      <link>/home-assistant-fills-some-gaps/</link>
       <pubDate>Fri, 28 Sep 2018 14:00:00 +0000</pubDate>
       
-      <guid>/post/home-assistant-fills-some-gaps/</guid>
+      <guid>/home-assistant-fills-some-gaps/</guid>
       <description>Hello and welcome to Home Assistant that kinda works&amp;hellip;.</description>
     </item>
     
     <item>
       <title>Android Pay and the Google Pixel — broken for me</title>
-      <link>/post/android-pay-and-the-google-pixel-broken-for-me/</link>
+      <link>/android-pay-and-the-google-pixel-broken-for-me/</link>
       <pubDate>Tue, 03 Jan 2017 09:22:53 +1000</pubDate>
       
-      <guid>/post/android-pay-and-the-google-pixel-broken-for-me/</guid>
+      <guid>/android-pay-and-the-google-pixel-broken-for-me/</guid>
       <description>“Hang on a minute, I purchased the latest flagship device from you and this is the support i’m getting?”
 I recently plunged head first into the Google Ecosystem after years with Apple Devices, I picked up a Pixel the week after they hit Australian stores.
 Everything went well for the first month or so, I had everything configured just the way I want to, I even moved banks so I could make use of Android Pay which quickly had become my default way of paying when suddenly….</description>

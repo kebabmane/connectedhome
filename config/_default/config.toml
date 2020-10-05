@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "/post"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -40,3 +40,12 @@ canonifyURLs = true
   url = "/"
   weight = 200
 
+[outputFormats.Algolia]
+baseName = "algolia"
+isPlainText = true
+mediaType = "application/json"
+notAlternative = true
+
+[params.algolia]
+vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+params = ["categories", "tags"]

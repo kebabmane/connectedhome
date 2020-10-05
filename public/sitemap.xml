@@ -3,56 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/bridging-the-homekit-divide/</loc>
-    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/the-homepod-is-meh/</loc>
+    <loc>/post/bridging-the-homekit-divide/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/post/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/the-homepod-is-meh/</loc>
     <lastmod>2018-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/quick-thoughts-on-the-google-home-hub/</loc>
+    <loc>/post/quick-thoughts-on-the-google-home-hub/</loc>
     <lastmod>2018-10-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/howdy/</loc>
+    <loc>/post/howdy/</loc>
     <lastmod>2018-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/home-assistant-fills-some-gaps/</loc>
+    <loc>/post/home-assistant-fills-some-gaps/</loc>
     <lastmod>2018-09-28T14:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/android-pay-and-the-google-pixel-broken-for-me/</loc>
+    <loc>/post/android-pay-and-the-google-pixel-broken-for-me/</loc>
     <lastmod>2017-01-03T09:22:53+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>/post/about/</loc>
     <lastmod>2015-04-14T22:17:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/post/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/post/tags/</loc>
   </url>
   
 </urlset>

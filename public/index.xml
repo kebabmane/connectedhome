@@ -6,11 +6,7 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bridging the HomeKit Divide</title>
       <link>/bridging-the-homekit-divide/</link>
@@ -42,17 +38,6 @@ One thing I was kinda annoyed about with the Apple approach was my need for a sh
     </item>
     
     <item>
-      <title>Do I want the Pixel 3 XL or iPhone Xs</title>
-      <link>/do-i-want-the-pixel-3-xl-or-iphone-xs/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/do-i-want-the-pixel-3-xl-or-iphone-xs/</guid>
-      <description>Why is it so hard to choose?
-Things I like about the iPhone (in order);
- The Apple Watch iMessage Privacy It Just Works  </description>
-    </item>
-    
-    <item>
       <title>Howdy</title>
       <link>/howdy/</link>
       <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
@@ -60,78 +45,6 @@ Things I like about the iPhone (in order);
       <guid>/howdy/</guid>
       <description>Hi - I’m Rhys and I’m slightly obsessed with making everything in my house have an IP address even when it shouldn’t.
 I have always had way to much interest in consumer electronics and from an early age loved tinkering with stuff, this has translated into my adult life with an obsession with IoT devices and more importantly trying to build the perfect smart home.</description>
-    </item>
-    
-    <item>
-      <title>Google Chromecast vs Apple TV</title>
-      <link>/google-chromecast-vs-apple-tv/</link>
-      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/google-chromecast-vs-apple-tv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Google Home Ecosystem - my take</title>
-      <link>/google-home-ecosystem-my-take/</link>
-      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/google-home-ecosystem-my-take/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Google Home Mini Review</title>
-      <link>/google-home-mini-review/</link>
-      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/google-home-mini-review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LIF 1st Gen Review</title>
-      <link>/lif-1st-gen-review/</link>
-      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/lif-1st-gen-review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My HomeKit Automations 2018 Edition</title>
-      <link>/my-homekit-automations-2018-edition/</link>
-      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/my-homekit-automations-2018-edition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Philips Hue Aphelion Downlight Review</title>
-      <link>/philips-hue-aphelion-downlight-review/</link>
-      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/philips-hue-aphelion-downlight-review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pi Hole - Keep your browsing private</title>
-      <link>/pi-hole-keep-your-browsing-private/</link>
-      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/pi-hole-keep-your-browsing-private/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What keeps me in the Apple Ecosystem - 2018&#34;</title>
-      <link>/what-keeps-me-in-the-apple-ecosystem-2018/</link>
-      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/what-keeps-me-in-the-apple-ecosystem-2018/</guid>
-      <description></description>
     </item>
     
     <item>
